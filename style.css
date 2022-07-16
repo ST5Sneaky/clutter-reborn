@@ -1,0 +1,41 @@
+p {
+  text-align: center;
+  border: 3px solid green;
+}
+
+h1 {
+  text-align: center;
+  border: 3px solid green;
+}
+
+h2 {
+  text-align: center;
+  border: 3px solid green;
+}
+
+h3 {
+  text-align: center;
+  border: 3px solid green;
+}
+
+h4 {
+  text-align: center;
+  border: 3px solid green;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+/* mouse over link */
+button:hover {
+  color: yellow;
+}
+
+/* selected link */
+button:active {
+  color: blue;
+}
