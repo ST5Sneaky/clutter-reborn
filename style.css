@@ -4,27 +4,27 @@ body {
 
 p {
   text-align: center;
+}
+
+title:h1 {
+  text-align: center;
   border: 3px solid green;
 }
 
 h1 {
   text-align: center;
-  border: 3px solid green;
 }
 
 h2 {
   text-align: center;
-  border: 3px solid green;
 }
 
 h3 {
   text-align: center;
-  border: 3px solid green;
 }
 
 h4 {
   text-align: center;
-  border: 3px solid green;
 }
 
 img {
