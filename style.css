@@ -43,3 +43,7 @@ button:hover {
 button:active {
   color: blue;
 }
+
+.link {
+  text-align: center;
+}
